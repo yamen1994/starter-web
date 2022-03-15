@@ -9,6 +9,10 @@ Sample website with plenty of files for demos
 ## Reason
 ana bagrab
 
+### How To Contribute
+
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2022 Git.Training
