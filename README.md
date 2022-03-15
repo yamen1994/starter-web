@@ -8,3 +8,7 @@ Sample website with plenty of files for demos
 
 ## Reason
 ana bagrab
+
+### Copyright
+
+2022 Git.Training
